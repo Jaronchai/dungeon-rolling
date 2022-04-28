@@ -60,11 +60,7 @@
 
 ================================================================================
 
-    Copyright 2020,
-        Jaronchai   Dilokkalayakul     ||   2021610064
-        Worapat     Settapak           ||   2021610114
-        Kritchanon  Prasobijaturaporn  ||   2021610171
-    All rights reserved. 
+    Copyright 2020, Jaronchai   Dilokkalayakul
 
 ==============================================================================*/
 
@@ -800,11 +796,7 @@ void credits(
 
     printf(
         "\n===============================\n"
-        "\nCopyright 2020,\n"
-        "\tJaronchai   Dilokkalayakul    ||   2021610064\n"
-        "\tWorapat     Settapak          ||   2021610114\n"
-        "\tKritchanon  Prasobjaturaporn  ||   2021610171\n"
-        "All rights reserved.\n"
+        "\nCopyright 2020, Jaronchai Dilokkalayakul\n"
         "\n===============================\n");
 
     fflush(stdin);
